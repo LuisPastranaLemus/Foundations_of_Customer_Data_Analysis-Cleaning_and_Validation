@@ -1,4 +1,4 @@
-# 🧹 Data Cleaning Project - Sprint 1
+# 🧹Foundations of Customer Data Analysis: Cleaning and Validation - Sprint 1
 
 This notebook is part of the first part in a multi-stage data analytics project. The focus here is on **data quality assessment and preprocessing**, preparing raw customer data for further analysis.
 
